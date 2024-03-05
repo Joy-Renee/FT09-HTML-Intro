@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(246, 168, 181);
+    
+}
+h1{
+color: rgb(242, 7, 187);
+font-family: sans-serif;
+margin-left: 600px;
+}
+h2{
+    color: blueviolet;
+    font-style: oblique;
+    margin-left: 500px;
+}
+h3{
+    color: rgb(241, 241, 248);
+    font-style: oblique;
+    margin-left: 50px;
+}
+
+h4{
+    color: rgb(241, 241, 248);
+    font-style: oblique;
+    margin-left: 50px;
+}
+
+h5{
+    color: rgb(241, 241, 248);
+    font-style: oblique;
+    margin-left: 50px;
+}
+
+h6{
+    color: rgb(241, 241, 248);
+    font-style: oblique;
+    margin-left: 50px;
+}
+
+p{
+    color: rgb(3, 3, 36);
+    font-style: oblique;
+    font-size: medium; 
+}
